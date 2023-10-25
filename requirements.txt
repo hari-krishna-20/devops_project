@@ -1,0 +1,5 @@
+Django==3.9.13
+Pillow
+django-crispy-forms
+django-bootstrap4
+gunicorn
